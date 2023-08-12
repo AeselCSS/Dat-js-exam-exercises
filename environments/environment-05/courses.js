@@ -1,4 +1,4 @@
-const courses = [
+export const courses = [
     {
         name: "Introduction to Computer Science",
         startDate: "2023-09-01",
